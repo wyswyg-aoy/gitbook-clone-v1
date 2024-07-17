@@ -1,7 +1,3 @@
----
-title: SUMMARY
----
+# Table of contents
 
-# Summary
-
-- [Introduction](README.md)
+* [Introduction zzzzzz](README.md)
